@@ -1,5 +1,5 @@
 # About Me:
-Hi — myself Krish, a B.Tech Computer Engineering student at CHARUSAT (DEPSTAR), pursuing my degree with a passion for full-stack development, AI applications, and data science. I've built scalable projects using React, FastAPI, Node.js, and PostgreSQL. I'm into making impactful websites, solving complex problems, and pushing my skills to the next level every single day. I enjoy working in teams, building connections, and leading projects with confidence and innovation.<br>
+Computer Engineering student who enjoys understanding problems, learning new technologies, and turning ideas into working solutions. I have experience with Python, Java, SQL, PHP, web development, the MERN stack, databases, data analysis, machine learning, and UI/UX design. I also make effective use of AI tools such as ChatGPT, Claude, GitHub Copilot, and Lovable to speed up development, test ideas, debug code, and build prototypes. My goal is to combine my technical and problem-solving skills with AI-assisted development to grow as a Solution Engineer and build solutions that are practical, scalable, and easy to use.<br>
 
 
 ## 🌐 Socials:
